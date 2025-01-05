@@ -1,0 +1,14 @@
+.container {
+  padding: 15px;
+  background-color: #ffffff;
+  height: 400px;
+  overflow-y: auto;
+  margin-bottom: 15px;
+  color: black;
+}
+
+.item {
+  height: "500px";
+  text-align: left;
+  padding-bottom: 5px;
+}
