@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.data</groupId>
-	<artifactId>collector</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>youtube-comment-collector</artifactId>
+	<version>0.0.1</version>
 	<name>collector</name>
 	<description>The project to collect the Sinhala texts</description>
 	<url/>
